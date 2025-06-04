@@ -73,6 +73,7 @@ Features: Classificação, regressão, clustering, redes neurais, análise explo
 Status: Ativo 🔬
 
 </div>
+
 ---
 
 🌱 Atualmente focado em
